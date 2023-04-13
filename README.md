@@ -1,4 +1,4 @@
-# LogisticRegAdmission
+# Logistic Regression Admission data(in R)
 Using Logistic Regression to identify if GRE scores, GPA  and prestige of the under-graduate institution, affect admission into graduate school
 
 The project was executed using R programming language. The .Rmd file is the main file. The .Rmd file could be knit to HTML or PDF on RStudio, those
